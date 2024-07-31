@@ -3,3 +3,4 @@ git add "nome do arquivo" - adiciona um arquivo específico da pasta do projeto 
 git add . - adiciona todos os arquivos disponíveis para a pasta do projeton 
 git status - mostra o status do git
 git commit -m "informações do commit"
+git reset --hard "id versão" - volta a versão mencionada
