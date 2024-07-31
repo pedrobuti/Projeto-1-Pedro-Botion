@@ -9,3 +9,4 @@ git branch - verifica as branchs existentes (branch marcada com asterísco é a 
 git branch nome_da_branch - cria uma branch
 git checkout nome_da_branch - altera entre as branchs
 git push --set-upstream origin nome_da_branch - sobe na nuvem a branch
+git merge branch_para_incluir - une duas branchs para atualização do código
