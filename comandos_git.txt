@@ -4,3 +4,8 @@ git add . - adiciona todos os arquivos disponíveis para a pasta do projeton
 git status - mostra o status do git
 git commit -m "informações do commit"
 git reset --hard "id versão" - volta a versão mencionada
+git push - envia as atualizações para o github
+git branch - verifica as branchs existentes (branch marcada com asterísco é a utilizada no momento)
+git branch nome_da_branch - cria uma branch
+git checkout nome_da_branch - altera entre as branchs
+git push --set-upstream origin nome_da_branch - sobe na nuvem a branch
